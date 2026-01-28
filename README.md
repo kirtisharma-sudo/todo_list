@@ -14,3 +14,10 @@ A simple command-line to-do list application built using Python.
 ▶️ How to Run
 ```bash
 python todo_list.py
+```
+🚀 Features
+- Add new tasks easily
+- Mark tasks as completed
+- Delete tasks when no longer needed
+- Simple and clean user interface
+- Helps improve daily productivity
